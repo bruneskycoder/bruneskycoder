@@ -1,14 +1,16 @@
 # Bruno Gutiérrez
 
-**Construyo software con Claude Code sin ser desarrollador: yo dirijo y verifico, Claude escribe y prueba.**
+**Construyo software con Claude Code sin ser desarrollador de profesión: yo dirijo y verifico, Claude escribe y prueba.**
 
-> *In English:* I build working software with Claude Code without being a developer. I decide what gets built and how it is verified; Claude writes and tests it. Everything below is public and comes with the plan, the checks or the sources behind it.
+> *In English:* I build working software with Claude Code without being a professional developer. I have a technical background in construction and solid programming fundamentals, and I keep learning. I decide what gets built and how it is verified; Claude writes and tests it. Everything below is public and comes with the plan, the checks or the sources behind it.
 
-## De dónde vengo
+## Perfil
 
-Vengo de la obra: construcción y topografía. De ahí traigo la disciplina con la que trabajo con IA: planificar antes de construir, medir antes de afirmar y dejar registro de cada decisión.
+Tengo un perfil técnico orientado a la construcción. Esos fundamentos (planificar antes de ejecutar, medir antes de afirmar y dejar registro de cada decisión) son los que aplico a cualquier otro ámbito, y hoy los aplico al trabajo con IA.
 
-No escribo el código, y no lo escondo. Lo que hago es definir qué se construye y para quién, fijar cómo se comprueba que anda y decidir qué se publica.
+Tengo bases de programación y estoy en aprendizaje constante. Hoy el código lo escribe Claude: yo defino qué se construye y para quién, fijo cómo se comprueba que anda, verifico los resultados y decido qué se publica.
+
+Mi criterio es sacarle el máximo provecho a las tecnologías nuevas y ser capaz de aplicarlas en cualquier ámbito.
 
 ## Lo que publiqué
 
