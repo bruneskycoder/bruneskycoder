@@ -2,13 +2,15 @@
 
 **Construyo software con Claude Code sin ser desarrollador de profesión: yo dirijo y verifico, Claude escribe y prueba.**
 
-> *In English:* I build working software with Claude Code without being a professional developer. I have a technical background in construction and solid programming fundamentals, and I keep learning. I decide what gets built and how it is verified; Claude writes and tests it. Everything below is public and comes with the plan, the checks or the sources behind it.
+> *In English:* I build working software with Claude Code without being a professional developer. I have a technical background in construction and programming fundamentals from university and self-study, and I keep learning. I do not practise vibe coding. I decide what gets built and how it is verified; Claude writes and tests it. Everything below is public and comes with the plan, the checks or the sources behind it.
 
 ## Perfil
 
 Tengo un perfil técnico orientado a la construcción. Esos fundamentos (planificar antes de ejecutar, medir antes de afirmar y dejar registro de cada decisión) son los que aplico a cualquier otro ámbito, y hoy los aplico al trabajo con IA.
 
-Tengo bases de programación y estoy en aprendizaje constante. Hoy el código lo escribe Claude: yo defino qué se construye y para quién, fijo cómo se comprueba que anda, verifico los resultados y decido qué se publica.
+Tengo bases de programación, adquiridas en la facultad y de manera autodidacta. Entiendo la lógica de los sistemas que diseño, aunque nunca me dediqué profesionalmente al desarrollo de software. Sigo aprendiendo porque considero que la programación es una herramienta fundamental del futuro, aplicable a muchos ámbitos más allá del desarrollo tradicional.
+
+Hoy el código lo escribe Claude: yo defino qué se construye y para quién, fijo los criterios de aceptación, exijo pruebas, verifico los resultados y decido qué se publica. No practico *vibe coding*: ninguna entrega se acepta por intuición, sino por evidencia comprobable (pruebas automáticas, chequeos previos a imprimir y estados de verificación).
 
 Mi criterio es sacarle el máximo provecho a las tecnologías nuevas y ser capaz de aplicarlas en cualquier ámbito.
 
