@@ -21,6 +21,7 @@ Mi criterio es sacarle el máximo provecho a las tecnologías nuevas y ser capaz
 | [A la Luz del Fogón](https://github.com/bruneskycoder/ciclo-de-sueno) · [probarla](https://bruneskycoder.github.io/ciclo-de-sueno/) | Calculadora de ciclos de sueño, en la web. | Un producto que cambió porque la versión anterior no se usaba. Su [`PLAN.md`](https://github.com/bruneskycoder/ciclo-de-sueno/blob/main/PLAN.md) guarda el registro de decisiones y desvíos. |
 | [plan-before-build](https://github.com/bruneskycoder/plan-before-build) | Skill de Claude que obliga a planificar antes de construir: triage, entrevista, enfoques, plan aprobado y ejecución verificada. | Cómo convierto un método propio en algo que se puede reutilizar. |
 | [Mentor Literario](https://github.com/bruneskycoder/mentor-literario) | Skill de Claude para editar textos literarios sin perder la voz del autor. | Un uso que no es técnico. |
+| [Bruno AI OS](https://github.com/bruneskycoder/bruno-ai-os-public) | Contrato de obra para trabajar con agentes de IA (edición pública): modelo de costos medido, 18 decisiones registradas, skills, subagentes con permisos separados y pruebas. | El sistema detrás de los otros proyectos: reglas, costos, decisiones y verificación. Una edición curada: lo personal no se publica. |
 
 ## Cómo trabajo
 
@@ -29,7 +30,7 @@ Mi criterio es sacarle el máximo provecho a las tecnologías nuevas y ser capaz
 - **Cada dato dice de dónde sale.** En el atlas, cada cifra lleva su tipo (dato oficial, estimación, cálculo, recomendación) y una fuente numerada.
 - **Lo privado no se publica por descuido.** Las ediciones públicas se arman desde una lista de lo permitido y se escanean antes de subir.
 
-Detrás tengo un sistema de trabajo propio, privado: un contrato de obra para los agentes, las decisiones registradas una por una, subagentes con permisos separados y pruebas que vigilan esa separación. De ahí salen estas prácticas.
+Detrás tengo un sistema de trabajo propio: un contrato de obra para los agentes, las decisiones registradas una por una, subagentes con permisos separados y pruebas que vigilan esa separación. De ahí salen estas prácticas. Publiqué [una edición curada](https://github.com/bruneskycoder/bruno-ai-os-public): lo personal queda en el repositorio privado.
 
 ## Contacto
 
